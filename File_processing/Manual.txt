@@ -1,5 +1,0 @@
-filter_UMI_fba.py
-
-Filter_CellPlex_sgRNA_outliers.py
-Check_gene_expression_level.py
-Get_express_genes.py
