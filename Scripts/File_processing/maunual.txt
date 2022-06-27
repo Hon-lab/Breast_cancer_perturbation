@@ -7,3 +7,4 @@ Filter_CellPlex_sgRNA_outliers.py
 ## QC
 Check_gene_expression_level.py
 Repression_efficiency.py
+Single_sgRNA_repression_efficiency.py
