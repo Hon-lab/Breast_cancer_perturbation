@@ -1,0 +1,6 @@
+## Transcriptome library
+#### 1. Map with cellranger 
+
+## sgRNA library
+#### 1. Map with fba
+#### 2. 
