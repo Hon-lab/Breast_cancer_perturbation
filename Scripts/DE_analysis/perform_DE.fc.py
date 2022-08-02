@@ -41,6 +41,9 @@ Only consider the genes expressed in more than 1% of the cells
 Ver.0.9.3 ---- Russell Xie
 Output both the cdf and sf pval of the hypergeometric test
 
+Ver.1.0.0 ----Yihan Wang
+Modify based on 10x 3' HT kit
+
 Note: requires the 'plot_annotation.txt' file to get the correct
 gene position information.
 '''
