@@ -1,8 +1,0 @@
-* Calculate observation raw p-value
-1. Hypergeometric test: perform_DE.fc.py
-2. MannWhitney test
-3. Anderson-Darling test 
-
-* Random selected cells: calculate gene specific adjusted p-value
-1. Background distribution for bins 
-2. Global hits analysis 
