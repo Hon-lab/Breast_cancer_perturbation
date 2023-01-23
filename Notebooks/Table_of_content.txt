@@ -1,1 +1,9 @@
-1. Circos_plot
+1. Local hits analysis 
+  * p-value and fold change filter  
+  * volcano plots
+  * histogram to summerize local hits
+2. Global hits analysis 
+  * p-value and fold change filter
+  * volcano plots 
+
+Circos_plot
