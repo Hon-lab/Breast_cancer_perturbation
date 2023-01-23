@@ -6,6 +6,4 @@
 
 ## Fastq files
 
-## How to cite 
-
 ## Contributors 
