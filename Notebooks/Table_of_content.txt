@@ -16,3 +16,5 @@
   * Two cell line local hits in circos plot 
 6. Manhattan plot 
   * Region centric Manhattan plots
+7. Clustering 
+  * UMAP with louvain clustering
