@@ -1,0 +1,10 @@
+# Shell script to use pySpade 
+# The corresponding function and manual are listed here: https://github.com/yihan1119/pySpade
+
+1. log.process.sh
+2. log.explevel.sh
+3. log.fc.sh
+4. log.DEobs.sh
+5. log.DErand.sh
+6. log.local.sh
+7. log.global.sh
