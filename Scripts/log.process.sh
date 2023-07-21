@@ -15,22 +15,11 @@ echo 'Program is running with the current python version:'
 which python
 python --version
 
-#set TRANS_DIR=/project/GCRB/Hon_lab/s426305/Analysis/Spade_test/MB231/MB231-SM_combine-1/outs/
-#set SG_FILE=/project/GCRB/Hon_lab/s426305/Sequencing_data_analysis/10X/MB231-GWAS_SM-combine/fba_sgRNA/curve/MB231_SM.pkl.gz
-#set MULTIPLEX_FILE=/project/GCRB/Hon_lab/s426305/Analysis/Spade_test/MB231/HTO.txt
-
-#mkdir MB231_SM
-#Spade process \
-#      -f $TRANS_DIR \
-#      -s $SG_FILE \
-#      -m $MULTIPLEX_FILE \
-#      -o ./MB231_SM/
-
 set TRANS_DIR=/project/GCRB/Hon_lab/s426305/Sequencing_data_analysis/10X/YW104-YW109/10x/MB231-YWsg1_combine_nova_new/outs/
 set SG_FILE=/project/GCRB/Hon_lab/s426305/Sequencing_data_analysis/10X/MB231-GWAS_SM-combine/fba_sgRNA/curve/MB231_GWAS.pkl.gz
 set MULTIPLEX_FILE=/project/GCRB/Hon_lab/s426305/Analysis/Spade_test/MB231/HTO.txt
 
-#mkdir MB231_GWAS
+mkdir MB231_GWAS
 pySpade process\
 	-f $TRANS_DIR\
 	-s $SG_FILE\
