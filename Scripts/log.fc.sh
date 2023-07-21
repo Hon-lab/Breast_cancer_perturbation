@@ -15,6 +15,7 @@ set GWAS_DICT=/project/GCRB/Hon_lab/s426305/Analysis/Mosaic-seq/MB231-dCas9-KRAB
 set MB231_GWAS_DIR=/project/GCRB/Hon_lab/s426305/Analysis/Spade_test/MB231/MB231_GWAS/
 
 #GWAS
+mkdir Jupyter_plots
 pySpade fc \
 	-t $MB231_GWAS_DIR\
 	-d $GWAS_DICT\
