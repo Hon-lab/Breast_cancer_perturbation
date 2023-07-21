@@ -15,9 +15,7 @@ echo 'Program is running with the current python version:'
 which python
 python --version
 
-#set DIR=/project/GCRB/Hon_lab/s426305/Sequencing_data_analysis/10X/DAA271-DAA286-ER+screens/process_singlets/MB361/
-set DIR=/project/GCRB/Hon_lab/s426305/Analysis/Spade_test/MB231/MB231_SM/
-#set DIR=/project/GCRB/Hon_lab/s426305/Analysis/Spade_test/MB231/MB231_GWAS/
+set DIR=/project/GCRB/Hon_lab/s426305/Analysis/Spade_test/MB231/MB231_GWAS/
 pySpade explevel \
       -t $DIR\
       -g ./query_gene.txt\
