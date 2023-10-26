@@ -1,0 +1,4 @@
+The unfilter global hits csv file for each cell lines. Since the data exceeds the limitation of excel, the csv files are deposited here. 
+1. MDAMB361 global hit (GWAS + SM)
+2. MDAMB231 GWAS global hit
+3. MDAMB231 SM global hit
