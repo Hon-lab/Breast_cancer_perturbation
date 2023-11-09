@@ -1,5 +1,5 @@
-# Shell script to use pySpade 
-# The corresponding function and manual are listed [here](https://github.com/Hon-lab/pySpade)
+## Shell script to use pySpade 
+The corresponding function and manual are listed [here](https://github.com/Hon-lab/pySpade)
 
 1. log.process.sh: remove doublets and save transcriptome dataframe and perturbation dataframe.
 2. log.explevel.sh: check the expression level of query genes.
