@@ -18,6 +18,6 @@ This repository contains the jupyter lab notebooks of analysis and plotting afte
 * GSE224986: Single cell libraries. 
 * GSE228332: Bulk RNA-seq validation experiments.
 
-## Contributors 
+## Contacts
 * First Author: Yihan Wang `Yihan.Wang@UTSouthwestern.edu`
 * Corresponding Author: Gary Hon `Gary.Hon@UTSouthwestern.edu`
