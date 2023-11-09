@@ -14,7 +14,9 @@ This repository contains the jupyter lab notebooks of analysis and plotting afte
 * pyCircos (0.3.0 +)
 
 ## Fastq files
-GEO accession
+GSE223812: Bulk ATAC-seq of breast cancer cell lines.
+GSE224986: Single cell libraries. 
+GSE228332: Bulk RNA-seq validation experiments.
 
 ## Contributors 
 * First Author: Yihan Wang `Yihan.Wang@UTSouthwestern.edu`
