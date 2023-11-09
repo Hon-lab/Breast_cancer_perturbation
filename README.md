@@ -5,7 +5,7 @@ This repository contains the jupyter lab notebooks of analysis and plotting afte
 
 [Link to pySpade](https://github.com/yihan1119/pySpade)
 
-![Overview](./MISC/overview.png "Overview")
+![Over-view](./MISC/overview.png "Overview")
 
 ## Requirement
 * Python (3.7 +)
