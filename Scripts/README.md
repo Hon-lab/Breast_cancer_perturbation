@@ -5,6 +5,7 @@ The corresponding function and manual are listed [here](https://github.com/Hon-l
 2. log.explevel.sh: check the expression level of query genes.
 3. log.fc.sh: compare the fold change of perturbation with all the other cells.
 4. log.DEobs.sh: perform differential expression analysis. 
-5. log.DErand.sh: background randomization. 
-6. log.local.sh: local hits analysis.
-7. log.global.sh: global hits analysis.
+5. log.DErand.sh: background randomization.
+6. log.submit_DErand.sh: batch submit log.DErand.sh with different bin size.
+7. log.local.sh: local hits analysis.
+8. log.global.sh: global hits analysis.
