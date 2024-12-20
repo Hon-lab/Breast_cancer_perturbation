@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14536572.svg)](https://doi.org/10.5281/zenodo.14536572)
 ## Overview
 This repository contains the jupyter lab notebooks of analysis and plotting after performing pySpade analysis of breast cancer associated enhancers perturbations.
 
